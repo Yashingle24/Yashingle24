@@ -14,4 +14,4 @@
 
 💡 Open to *collaborations and job opportunities* in Data Analytics!  
 
-📫 *Connect with me on LinkedIn:* [Your LinkedIn Profile Link]  
+📫 *Connect with me on LinkedIn:* (https://www.linkedin.com/in/yash-ingle-705a91302/)  
