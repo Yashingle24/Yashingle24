@@ -1,7 +1,7 @@
 # Yash-Ingle
 👋 Hi, I'm Yash Ingle  
 
-## 📊 Data Analyst | SQL | Tableau | R | Power BI  
+## 📊 Data Analyst | SQL | Tableau | R | Power BI | Python
 
 🔹 Passionate about turning data into actionable insights  
 🔹 Hands-on experience in *SQL, Tableau, Power BI, and R*  
