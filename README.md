@@ -7,10 +7,8 @@
 🔹 Hands-on experience in *SQL, Tableau, Power BI, and R*  
 🔹 Currently building my portfolio in *Data Analytics*  
 
-## 🚀 My Projects  
-📌 **[Superstore Sales Analysis](https://github.com/Yashingle24/Data-Analytics-Prtfolio/tree/main/Superstore-Sales-Analysis)**  
-📌 **[HR Analytics Dashboard](https://github.com/Yashingle24/Data-Analytics-Prtfolio/tree/main/HR-Analytics)**  
-📌 **[E-Commerce Sales Dashboard](https://github.com/Yashingle24/Data-Analytics-Prtfolio/tree/main/E-Commerce-Sales)**  
+## 🚀 My Projects Repository
+
 
 💡 Open to *collaborations and job opportunities* in Data Analytics!  
 
