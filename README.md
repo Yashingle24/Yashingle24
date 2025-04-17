@@ -1,11 +1,12 @@
 # 🚀 Yash Ingle
 
-[![Python](https://img.shields.io/badge/Python-Experienced-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Experienced-blue?logo=postgresql)]
-[![Tableau](https://img.shields.io/badge/Tableau-Experienced-orange?logo=tableau)]
-[![Power BI](https://img.shields.io/badge/Power%20BI-Experienced-yellow?logo=powerbi)]
-[![R](https://img.shields.io/badge/R-Experienced-blue?logo=r)]
-[![GitHub](https://img.shields.io/badge/GitHub-Active-informational?logo=github)]
+![Python](https://img.shields.io/badge/Python-Experienced-blue)
+![SQL](https://img.shields.io/badge/SQL-Experienced-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Experienced-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Experienced-gold)
+![R](https://img.shields.io/badge/R-Experienced-5D8AA8)
+![GitHub](https://img.shields.io/badge/GitHub-Active-blue)
+
 
 ---
 
